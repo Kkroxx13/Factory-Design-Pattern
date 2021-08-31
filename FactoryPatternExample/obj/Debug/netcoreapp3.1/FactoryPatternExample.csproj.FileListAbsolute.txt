@@ -1,0 +1,14 @@
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.exe
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.deps.json
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.runtimeconfig.json
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.runtimeconfig.dev.json
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.dll
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp3.1\FactoryPatternExample.pdb
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.csproj.AssemblyReference.cache
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.AssemblyInfoInputs.cache
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.AssemblyInfo.cs
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.dll
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.pdb
+C:\Users\kkancha\source\repos\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp3.1\FactoryPatternExample.genruntimeconfig.cache
